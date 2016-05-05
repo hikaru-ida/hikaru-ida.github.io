@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: about
 ---
+
+{% include header.html %}
 
 Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
 
