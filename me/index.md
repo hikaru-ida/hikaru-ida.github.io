@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 ---
 
 Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
