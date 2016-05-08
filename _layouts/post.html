@@ -2,8 +2,10 @@
 layout: default
 ---
 
+
+{% include header.html %}
 <div class="post">
-    <a class="post__back" href="/">&lt;-- back</a>
+  <style>/*<a class="post__back" href="/">&lt;-- back</a>*/</style>
     <h1 class="post__title">{{ page.title }}</h1>
     <p class="post__date">{{ page.date | date: '%B %-d, %Y' }}</p>
     <div class="post__content"?>
